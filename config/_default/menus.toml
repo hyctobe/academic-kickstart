@@ -29,14 +29,14 @@
   weight = 50
 
 # [[main]]
-#   name = "Posts"
-#   url = "#posts"
+#   name = "Talks"
+#   url = "#talks"
 #   weight = 60
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 70
+#
+# [[main]]
+#   name = "Meditations"
+#   url = "#meditations"
+#   weight = 70
 
 [[main]]
   name = "Contact"
