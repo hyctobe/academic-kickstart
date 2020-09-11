@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Testimonials"
+title = "See what people are saying about Brett Koon and his services! Start your journey today..."
 subtitle = ""
 
 [design]

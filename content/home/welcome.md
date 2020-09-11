@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Discover your true self and experience the peace, joy, and love of who you are."
+title = "Discover your true self and experience the peace, joy and love within."
 subtitle = ""
 
 [design]
@@ -54,10 +54,10 @@ subtitle = ""
 
 The world is a reflection of who you are. Therefore, it is of paramount importance that whatever you seek – money, relationships, jobs, or pursuit of greater spiritual meaning – that you make an internal shift to aid in a sustaining *peace, joy, and love* within.
 
-Brett Koon, just like you, desired something more out of life: A deeper internal connection – one with his true self. It is from this place, that all of his teachings are derived.
+Brett Koon, just like you, desired something more out of life: A deeper internal connection – one with his true self. In 2015 he had an experience where he became aware that he was not his thoughts, nor was he any beliefs, ideas or self images of who he thought he was. When he had this awareness, his teachings shifted to teaching from the stillness within, his true self.
 
 Brett offers Spiritual Life-Coaching, Meditation, Meditation Retreats and Inspirational Talks. He is *not* here to help you experience a temporary state of happiness through external change, but rather to *help you create a* sustained peace, joy, and love by doing the internal work, which helps you to become aware of your true self.
 
-Limiting beliefs you create for yourself can have a monumental effect on what actually manifests in your life. Know that *Brett is here* to help you work through those limiting beliefs. Once you understand that *you are not your thoughts*, a whole new world of possibilities opens up.
+Limiting beliefs can have a monumental effect on what actually manifests in your life. Know that *Brett is here* to help you work through those limiting beliefs, which are simply thoughts you have believed to be true. Once you understand that *you are not your thoughts*, a whole new world of possibilities opens up.
 
-The universe is always reflecting exactly what you need, exactly when you need it. His purpose isn’t to focus on changing the external reality of the life in which you live, but rather help you internally find self-love and a path that fully resonates and aligns with who you are.
+The universe is always bringing you exactly what you need, exactly when you need it. His purpose isn’t to focus on changing the external reality of the life in which you live, but rather help you internally find self-love and a path that fully resonates and aligns with the core truth of who you are.
