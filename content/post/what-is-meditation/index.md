@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "What Is Meditation Really About?"
-subtitle: "Click to read more..."
-summary: ""
+subtitle: ""
+summary: "Test"
 authors: []
 tags: []
 categories: []
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-There is a lot of talk about meditation these days, but what is meditation really all about. At the very core essence of meditation, it is simply sitting and being.
+There is a lot of talk about meditation these days, but what is meditation really all about? At the very core essence of meditation, it is simply sitting and being.
 
 What does it mean "being"? It means that you are just observing the breath, at least as far as mindfulness meditation goes, and there is no trying or doing involved, you are just simply sitting without judgment and without using the mind. In that beingness, there is nothing to do other than just simply be aware, and just sit and be still.
 
