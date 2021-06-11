@@ -51,7 +51,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[This is a test]
+
 The world is a reflection of who you are. Therefore, it is of paramount importance that whatever you seek – money, relationships, jobs, or pursuit of greater spiritual meaning – that you make an internal shift to aid in a sustaining *peace, joy, and love* within.
 
 Brett Koon, just like you, desired something more out of life: A deeper internal connection – one with his true self. In 2015 he had an experience where he became aware that he was not his thoughts, nor was he any beliefs, ideas or self images of who he thought he was. When he had this awareness, his teachings shifted to teaching from the stillness within, his true self.
