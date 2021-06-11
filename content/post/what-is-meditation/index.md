@@ -3,7 +3,7 @@
 
 title: "What Is Meditation Really About?"
 subtitle: ""
-summary: "Click here to read more..."
+summary: ""
 authors: []
 tags: []
 categories: []
