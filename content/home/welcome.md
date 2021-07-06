@@ -52,12 +52,12 @@ subtitle = ""
  css_class = ""
 +++
 
-The world is a reflection of who you are. Therefore, it is of paramount importance that whatever you seek – money, relationships, jobs, or pursuit of greater spiritual meaning – that you make an internal shift to aid in a sustaining *peace, joy, and love* within.
+There is one thing that we are all seeking, and that is happiness. Yes, we all go about looking for it in different ways, but ultimately we all want the same thing. The question is, though, is temporary happiness enough? And is it even possible to experience a lasting joy?
 
-Brett Koon, just like you, desired something more out of life: A deeper internal connection – one with his true self. In 2015 he had an experience where he became aware that he was not his thoughts, nor was he any beliefs, ideas or self images of who he thought he was. When he had this awareness, his teachings shifted to teaching from the stillness within, his true self.
+As a Meditation Teacher, an Inspirational Speaker, Meditation Retreat Facilitator, and a Life Coach, my aspirations are all the same, to fully realize the truth of who I am and to help others awaken to the truth of who they are as well.
 
-Brett offers Spiritual Life-Coaching, Meditation, Meditation Retreats and Inspirational Talks. He is *not* here to help you experience a temporary state of happiness through external change, but rather to *help you create a* sustained peace, joy, and love by doing the internal work, which helps you to become aware of your true self.
+In 2015, I had an experience where for a short period of time I transcended all of my limiting thinking and beliefs and recognized that I was more than just some story of who I thought I was. In that recognition, my life completely changed. I saw how my limited thinking kept me locked in a box where peace, joy, and love were not fully possible, but only temporary at best.
 
-Limiting beliefs can have a monumental effect on what actually manifests in your life. Know that *Brett is here* to help you work through those limiting beliefs, which are simply thoughts you have believed to be true. Once you understand that *you are not your thoughts*, a whole new world of possibilities opens up.
+As I continue to let go of limited thinking and lift up the veil of illusion, there is only one thing that remains, the True Self. So... I offer to you a direction to turn so that you are able to let go of all those limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are right now in this present moment and in every present moment.
 
-The universe is always bringing you exactly what you need, exactly when you need it. His purpose isn’t to focus on changing the external reality of the life in which you live, but rather help you internally find self-love and a path that fully resonates and aligns with the core truth of who you are.
+When you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me and let us move forward in a direction that you will know for yourself, not only is peace possible, but it is the very nature of who you are.
