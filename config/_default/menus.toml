@@ -38,10 +38,10 @@
 #   url = "#meditations"
 #   weight = 70
   
-[[main]]
-  name = "Retreats"
-  url = "#retreats"
-  weight = 80
+# [[main]]
+#   name = "Retreats"
+#   url = "#retreats"
+#   weight = 80
 
 [[main]]
   name = "Contact"
