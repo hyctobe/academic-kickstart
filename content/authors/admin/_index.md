@@ -54,14 +54,8 @@ email: ""
 # - Visitors
 ---
 
-Brett Koon wanted to know that there was more to his life. He wanted to explore all the possibilities concerning life. He desired to find out if there was something beyond "himself",  which in turn, threw him deep into exploration...
+Like many of you, Brett has been searching for a long time to experience the joy that life can so generously give. He has been meditating since 1992 and draws upon most of his teachings from that space.
 
-Eventually, he had an awareness: **He was not an idea or self image of who he "thought" he was.** Once he became aware of this, all of his life changed.
+In 2015 he had an experience where he was fully Awake for a brief period of time. During that time, it helped open his eyes to see that he wasn't any idea or story of who he thought he was. At that moment, he became aware of how much easier life could be.
 
-Brett has been an inspirational speaker for over 20 years. His talks are focused on helping people *move beyond their fears and limitations.*
-
-After gaining his newfound awareness, Brett dug more into who he is and how he could *use* his understanding to guide people on their own paths to sustaining peace, joy, and love.
-
-Now, he helps people from around the world.
-
-From free guided meditations on his YouTube channel, "*Brett Koon,*" to the many other services he provides, you can feel at ease knowing he is here to guide you toward a life of nothing but internal peace. *Find joy in the world that surrounds you* and love not only yourself but the reality in which you live and the people who manifest into your life.
+You will find Brett to be an honest, open-hearted, and a compassionate person who is incredibly committed and dedicated to the people that work with him. His commitment to supporting others in their own Awakening is clear and you understand that from the first moment you speak with him.
