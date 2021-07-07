@@ -56,6 +56,6 @@ email: ""
 
 Like many of you, Brett has been searching for a long time to experience the joy that life can so generously give. He has been meditating since 1992 and draws upon most of his teachings from that space.
 
-In 2015 he had an experience where he was fully Awake for a brief period of time. During that time, it helped open his eyes to see that he wasn't any idea or story of who he thought he was. At that moment, he became aware of how much easier life could be.
+In 2015, he had an experience where he was fully Awake for a brief period of time. During that time, it helped open his eyes to see that he wasn't any idea or story of who he thought he was. At that moment, he became aware of how much easier life could be.
 
-You will find Brett to be an honest, open-hearted, and a compassionate person who is incredibly committed and dedicated to the people that work with him. His commitment to supporting others in their own Awakening is clear and you understand that from the first moment you speak with him.
+You will find Brett to be an honest, open-hearted, and a compassionate person who is incredibly committed and dedicated to the people that work with him. His commitment to supporting others in their own Awakening is clear, and you will understand that from the first moment you speak with him.

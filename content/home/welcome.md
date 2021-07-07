@@ -54,10 +54,10 @@ subtitle = ""
 
 There is one thing that we are all seeking, and that is happiness. Yes, we all go about looking for it in different ways, but ultimately, we all want the same thing. The question is, though, is it a temporary happiness or a lasting one? And is it even possible to experience a lasting joy?
 
-As a Meditation Teacher, an Inspirational Speaker, Meditation Retreat Facilitator, and a Life Coach, my aspirations are all the same, to fully realize the truth of who I am and to help others awaken to that same truth.
+As a Meditation Teacher, an Inspirational Speaker, Meditation Retreat Facilitator, and a Life Coach, my aspirations are all the same: to fully realize the truth of who I am and to help others awaken to that same truth.
 
 In 2015, I had an experience where for a short period of time I transcended all of my limiting thinking and beliefs. At that moment, I recognized that I was more than just some story of who I thought I was. My life completely changed. I saw how my limited thinking kept me locked in a box where peace, joy, and love were not fully possible, and only temporary at best.
 
-As I continue to let go of my limited thinking and lift up the veil of illusion, there is only one thing that remains, the True Self. So...I offer you a new direction to turn. I offer you support on letting go of the limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are right now in this present moment.
+As I continue to let go of my limited thinking and lift the veil of illusion, there is only one thing that remains, the True Self. So... I offer you a new direction to turn. I offer you support on letting go of the limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are right now in this present moment.
 
-So, when you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me. Let us move you forward in a direction that you will know for yourself, not only is peace and joy possible, but it is the very nature of who you are.
+So, when you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me. Let us move you forward in a direction so that you will know for yourself that not only is peace and joy possible, but it is the very nature of who you are.
