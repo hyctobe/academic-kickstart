@@ -58,6 +58,6 @@ As a Meditation Teacher, an Inspirational Speaker, Meditation Retreat Facilitato
 
 In 2015, I had an experience where for a short period of time I transcended all of my limiting thinking and beliefs. At that moment, I recognized that I was more than just some story of who I thought I was. My life completely changed. I saw how my limited thinking kept me locked in a box where peace, joy, and love were not fully possible, and only temporary at best.
 
-As I continue to let go of my limited thinking and lift the veil of illusion, there is only one thing that remains, the True Self. So... I offer you a new direction to turn. I offer you support on letting go of the limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are right now in this present moment.
+As I continue to let go of my limited thinking and lift the veil of illusion, there is only one thing that remains, the True Self. So... I offer you a new direction to turn. I offer you support on letting go of the limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are.
 
 So, when you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me. Let us move you forward in a direction so that you will know for yourself that not only is peace and joy possible, but it is the very nature of who you are.
