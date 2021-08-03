@@ -43,10 +43,10 @@
 #   url = "#retreats"
 #   weight = 80
 
-[[main]]
-  name = "Payment"
-  url = "#payment"
-  weight = 90
+# [[main]]
+#   name = "Payment"
+#   url = "#payment"
+#   weight = 90
 
 [[main]]
   name = "Contact"
