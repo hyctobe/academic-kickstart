@@ -27,4 +27,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="qrcode.png" alt="QR Code" />
+<img src="/static/media/qrcode.png" alt="QR Code" />
