@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "Indigo"
 
   # Background image.
-  image = "jenn.jpg"  # Name of image in `static/media/`.
+  image = "jenn.webp"  # Name of image in `static/media/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -47,9 +47,9 @@ subtitle = ""
  css_style = ""
 
  # CSS class.
+ # css_class = "welcome"
  css_class = ""
 +++
-
 There is one thing that we are all seeking, and that is happiness. Yes, we all go about looking for it in different ways, but ultimately, we all want the same thing. The question is, though, is it a temporary happiness or a lasting one? And is it even possible to experience a lasting joy?
 
 As a Meditation Teacher, an Inspirational Speaker, Meditation Retreat Facilitator, and a Life Coach, my aspirations are all the same: to fully realize the truth of who I am and to help others awaken to that same truth.

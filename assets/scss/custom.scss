@@ -23,3 +23,9 @@
 #fine {
   text-decoration: underline;
 }
+
+.welcome {
+    // background-image: url("../media/jenn.webp");
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('../media/jenn.webp');
+    background-size: cover;
+}
