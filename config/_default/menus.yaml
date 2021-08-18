@@ -16,12 +16,12 @@ main:
   - name: Services
     url: '#services'
     weight: 40
+  - name: Events
+    url: '#events'
+    weight: 50
   - name: Testimonials
     url: '#testimonials'
-    weight: 50
-#  - name: Events
-#    url: '#events'
-#    weight: 80
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 100

@@ -1,8 +1,8 @@
 +++
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Upcoming Events"
 subtitle = ""
@@ -20,7 +20,7 @@ subtitle = ""
  css_style = ""
 
  # CSS class.
- css_class = ""
+ css_class = "flyer"
 +++
 
-
+![An upcoming Restorative Meditation Retreat. Contact Brett Koon at (248) 420-4372 for details.](retreat-flyer-1.png)
