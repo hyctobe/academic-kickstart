@@ -13,9 +13,9 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
+local_business_type: 'LocalBusiness'
 org_name: ''
-description: ''
+description: 'Meditation Teacher and Inspirational Speaker'
 twitter: ''
 
 # Contact (edit or remove options as required)

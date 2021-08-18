@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Speaker and Meditation Teacher
+role: Meditation Teacher and Inspirational Speaker
 
 # Organizations/Affiliations
 organizations: []
