@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "What Is Meditation Really About?"
+title: "What is Meditation Really About?"
 subtitle: ""
 summary: " "
 authors: []
