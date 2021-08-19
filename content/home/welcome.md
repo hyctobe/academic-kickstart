@@ -59,4 +59,4 @@ In 2015, I had an experience where for a short period of time I transcended all 
 
 As I continue to let go of my limited thinking and lift the veil of illusion, there is only one thing that remains, the True Self. So... I offer you a new direction to turn. I offer you support on letting go of the limiting thoughts and beliefs that stand in the way of recognizing the beautiful truth of who you are.
 
-So, when you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me. Let us move you forward in a direction so that you will know for yourself that not only is peace and joy possible, but it is the very nature of who you are.
+So, when you are ready to make a sincere choice to end the stress and the suffering in your life, please contact me. Let's move you forward in a direction that you will know for yourself that not only is peace and joy possible, but it is the very nature of who you are.
