@@ -16,9 +16,9 @@ main:
   - name: Services
     url: '#services'
     weight: 40
-  - name: Events
-    url: '#events'
-    weight: 50
+#  - name: Events
+#    url: '#events'
+#    weight: 50
   - name: Testimonials
     url: '#testimonials'
     weight: 60
