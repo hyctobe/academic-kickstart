@@ -89,3 +89,9 @@ If you are considering learning or pursuing meditation, I cannot recommend Brett
 > I cannot speak for others; however, Brett is such an authentic teacher, student, and friend! He is the voice of calm. His meditation creates awareness of your inner soul. If you are ready for an awakening in these crazy times, he is a must to find your calm.
 
 <p class="by">Michelle Alire</p>
+
+***
+
+> Hi Brett, for some reason I listened to your meditation from last week today. I was really moved from who you are now and your love and your gratitude for everything that happens to you. Your work helps a lot of people and it has helped me. I am in a different place both spiritually and mentally and I too am letting God lead my path. I hope you find your path leads you to a very special place because you deserve it, and so do others deserve you. The very best for you Brett.
+
+<p class="by">Bar Bloom-Stoeker</p>
