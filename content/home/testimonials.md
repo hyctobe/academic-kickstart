@@ -96,6 +96,8 @@ If you are considering learning or pursuing meditation, I cannot recommend Brett
 
 <p class="by">Barb Bloom-Stoeker</p>
 
+***
+
 > I have attended 2 of Brett’s Restorative Wellness Meditation Retreats and have found both to be life-changing experiences.<br>
 Brett leads deep insightful guided meditations where I discovered a deeper connection with my True Authentic Self.  After each meditation session, Brett encourages open and honest interactions around what emotions “came up” for each individual person.  For me, the last Retreat was about letting go of the fear that keeps me from being my True Self. But it’s something different for each person.<br>
 These Retreats are a safe place to just be exactly who you are, and to be exactly wherever you are on your journey through life. It’s all perfectly accepted.  The honest and authentic sharing that magically happens between the participants is what connects us all together in a sense of True Oneness.<br>
